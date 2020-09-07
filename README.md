@@ -8,12 +8,11 @@ If you registered for the event and show up on time you will be upgraded to R3. 
 ## Rule #2: Send the right troops
 Influencer trap:
 - Do not send infantry
-- Set Chloe or Eva for march captain
+- Set Zoe as march captain (or Eva or Sarge if you don't have Zoe)
 - Fill rallies in order, do not only join Rott, be fair to other alliance members
 
 Capital clash:
 - When you join a rally always make sure you arrive before the march starts. If you can't use march speedups you will be sent back.
-- When holding capital send the troops 60/20/20 ration (infantry/riders/hunters)
 
 Alliance showdown:
 - Set your talents to war
