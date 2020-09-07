@@ -5,7 +5,7 @@ We will use the ranking system to maximise activity and player rewards. R3 are a
 
 If you registered for the event and show up on time you will be upgraded to R3. If you don't show up at all you will be downgraded to R1. If something urgent came up and you can't participate let an R4 know.
 
-## Rule #2: Send the rigth troops
+## Rule #2: Send the right troops
 Influencer trap:
 - Do not send infantry
 - Set Chloe or Eva for march captain
