@@ -1,4 +1,6 @@
-# The rules of Bacon
+[Russian](README_RU.md)
+
+# The rules of HIH
 
 ## Rule #1: Show up for events if you registered
 We will use the ranking system to maximise activity and player rewards. R3 are active players, R2 neutral, R1 is the danger zone where you may be removed from the alliance. Everyone starts as R2.
